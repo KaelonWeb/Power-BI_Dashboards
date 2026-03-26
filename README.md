@@ -1,32 +1,25 @@
-# Data Jobs Dashboard w/ Power BI
+# My Power BI Dashboards created during my online course with Luke Barousse. 📊
 
-![Dashboard Page 1](/images/Data%20Dashboard.png)
+This is a repository for my 2 projects that were built while taking my online course to learn Power BI. Shoutout to both Luke Barousse as the course instructor who is quite knowledgeable, and to Kelly Adams as the course producer. Easy to learn, and with the work examples, great practice to have the skills get ingrained into your skills set.
 
-## Introduction
+# Feature Dashboards
 
-This dashboard was created for **Job Seekers, Job Transitioners and Job Swappers** to solve a common Problem: Information about the data job market is scattered and hard to grasp. It is using 2024 data science job postings (including titles, salaries and locations). This project provides a single, easy-to-use interface to explore market trends and compensation. This project was built while going through an online course to learn Power BI.
+Explore the dashboards listed below. Each has its own dedicated REAME file with more details on the build process and its specific features.
 
-## Skills
+## Data Jobs Dashboard (V1 - Comprehensie Exploration)
 
-- **Data Transformation (ETL) with Power Query:**
-Cleaned, shaped, and prepared raw data for analysis by handling blanks, changing data types, and creating new columns.
+![Data Jobs DB GIF](/images/Data%20Dashboard.png)
 
-- **Implicit Measures:**
-Formulated measures to derive key insights and KPI like `Median Yearly Salary` and `Job Counts`.
+[🌐 ** View Interactive Dashboard On Power BI Service **](https://lukeb.co/powerbi-project1)
 
-- **Core Chats:**
-Column, Bar, Line and Area Chats to compare job counts and track trends over time.
+**Key Power BI Skills Utilized:**
+* 🖌️ Dashboard Layout and Design 
+* 🪫 Power Query (ETL & Data Shaping)
+* 🏠 Basic Data Modelin (Table Relationships)
+* 🧮 Implicit Measures & Standard Aggregations
+* 📊 Core Charts (Bar, Line, Area, Column)
+* 🗺️ Map Visualizations
+* 💻 KPI Cards & Detailed Data Tables
+* ⬇️ Drill-Through Functionality
 
-
-
-### Page 1 : High Level Market View
-
-![Dashboard Page 1](/images/Data%20Dashboard.png)
-
-This is your main page for the data job market. It showcases key KPI like total job counts, median salaries and job titles to give you a quick understanding of what's happening at a glance.
-
-### Page 2 : Job Title Drill Through
-
-![Dashboard Page 2](/images/Drill%20Through%20Page.png)
-
-This is a deep dive page. From the selection done on the main dashboard, you drill down to this page to this view to get details for the specific job chosen including salary ranges, work from home, hiring platforms and global map of job locations.
+[ **View Full Project 1 Details (README)**](/DataJobs%20V1/README.md)
